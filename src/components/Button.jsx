@@ -1,7 +1,8 @@
 const Button = () => {
 
   return (
-    <div className="button">Button</div>
+      <button className="button">x</button>
+    
   )
 }
 
